@@ -1,0 +1,117 @@
+.over {
+  overflow: hidden;
+}
+
+.rads {
+  /* padding: 0.3rem; */
+
+  opacity: 20px;
+  padding: 0.3rem;
+  margin-left: 1rem;
+  margin-right: 1rem;
+  color: rgb(67, 67, 68);
+}
+.accep {
+  color: rgb(67, 67, 68);
+  padding-top: 1rem;
+}
+.che {
+  padding-bottom: 1rem;
+}
+.fe {
+  margin-right: 10rem;
+}
+
+.forms {
+  padding: 3rem;
+}
+.btt {
+  width: 8rem;
+}
+.imgs {
+  height: 100vh;
+  width: -webkit-fill-available;
+}
+.hea {
+  padding: 0.3rem 0.3rem 0.3rem 0;
+}
+.containers {
+  position: relative;
+}
+.first {
+  color: white;
+  position: absolute;
+  top: 38%;
+  left: 14%;
+}
+
+.second {
+  color: white;
+  position: absolute;
+  top: 49%;
+  left: 14%;
+  font-size: medium;
+  font-weight: 100;
+  padding-top: 1rem;
+}
+
+.third {
+  color: white;
+  position: absolute;
+  top: 83%;
+  left: 8%;
+  font-size: smaller;
+  font-weight: 100;
+  padding-top: 1rem;
+}
+
+.fb {
+  color: white;
+  position: absolute;
+  top: 87%;
+  left: 75%;
+}
+.in :hover {
+  color: rgb(108, 108, 199);
+}
+.ins :hover {
+  color: rgb(108, 108, 199);
+}
+.twi :hover {
+  color: rgb(108, 108, 199);
+}
+
+.in {
+  color: white;
+  position: absolute;
+  top: 87%;
+  left: 80%;
+}
+.ins {
+  color: white;
+  position: absolute;
+  top: 87%;
+  left: 85%;
+}
+.twi {
+  color: white;
+  position: absolute;
+  top: 87%;
+  left: 90%;
+}
+.arrow {
+  color: rgb(194, 36, 36);
+  position: absolute;
+  top: 9%;
+  left: 53%;
+}
+.mb-3 {
+  padding-bottom: 2rem;
+}
+.pre,
+.arrow {
+  color: rgb(148, 143, 143);
+}
+.arrp {
+  margin-left: 1rem;
+}
